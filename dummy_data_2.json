@@ -1,0 +1,32 @@
+{
+   "2022-01-01":{
+      "Air Temperature":"20.1",
+      "Relative Humidity":"90.1",
+      "Wind Speed":"10.1",
+      "Wind Direction":"10.1"
+   },
+   "2022-01-02":{
+      "Air Temperature":"20.2",
+      "Relative Humidity":"90.2",
+      "Wind Speed":"10.2",
+      "Wind Direction":"20.2"
+   },
+   "2022-01-03":{
+      "Air Temperature":"20.3",
+      "Relative Humidity":"90.3",
+      "Wind Speed":"10.3",
+      "Wind Direction":"30.3"
+   },
+   "2022-01-04":{
+      "Air Temperature":"20.4",
+      "Relative Humidity":"90.4",
+      "Wind Speed":"10.4",
+      "Wind Direction":"40.4"
+   },
+   "2022-01-05":{
+      "Air Temperature":"20.5",
+      "Relative Humidity":"90.5",
+      "Wind Speed":"10.5",
+      "Wind Direction":"50.5"
+   }
+}
